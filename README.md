@@ -29,7 +29,7 @@ I'm always focus and learning new technologies. I'm currently using C#, VB.NET, 
   	<img alt="Static Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=.net">
   	<img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23323330">
   	<img alt="Static Badge" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  	<img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  	<img alt="Static Badge" src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   	<img alt="Static Badge" src="https://img.shields.io/badge/Azure%20DevOps-%230078D7?style=for-the-badge&logo=AzureDevOps">
   </p>
 </div>
@@ -38,7 +38,7 @@ I'm always focus and learning new technologies. I'm currently using C#, VB.NET, 
   <p align="left">
   	<img alt="Static Badge" src="https://img.shields.io/badge/visual%20basic-%23512BD4?style=for-the-badge&logo=.net">
   	<img alt="Static Badge" src="https://img.shields.io/badge/PL%2FSQL-%23F80000?style=for-the-badge&logo=oracle">
-  	<img alt="Static Badge" src="https://img.shields.io/badge/Angular-%230F0F11?style=for-the-badge&logo=Angular&logoColor=%23dd1b16">
+  	<img alt="Static Badge" src="https://img.shields.io/badge/Angular-%231976d2?style=for-the-badge&logo=Angular&logoColor=%23dd1b16">
   	<img alt="Static Badge" src="https://img.shields.io/badge/Jira%20--%20Bamboo-%230052CC?style=for-the-badge&logo=Bamboo">
   </p>
 </div>
